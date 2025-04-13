@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adhisri2029/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/adhisri2029/LeetCode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/adhisri2029/LeetCode/tree/master/0504-base-7) |
 | [1031-add-to-array-form-of-integer](https://github.com/adhisri2029/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adhisri2029/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
