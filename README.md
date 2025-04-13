@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adhisri2029/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2238-a-number-after-a-double-reversal](https://github.com/adhisri2029/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/adhisri2029/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/adhisri2029/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/adhisri2029/LeetCode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/adhisri2029/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/adhisri2029/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
