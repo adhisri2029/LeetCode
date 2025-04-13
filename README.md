@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/adhisri2029/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2102-find-the-middle-index-in-array](https://github.com/adhisri2029/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/adhisri2029/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/adhisri2029/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adhisri2029/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sliding Window
