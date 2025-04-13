@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhisri2029/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/adhisri2029/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/adhisri2029/LeetCode/tree/master/0202-happy-number) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adhisri2029/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/adhisri2029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/adhisri2029/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adhisri2029/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/adhisri2029/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adhisri2029/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Counting
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
