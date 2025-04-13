@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/adhisri2029/LeetCode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/adhisri2029/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1031-add-to-array-form-of-integer](https://github.com/adhisri2029/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adhisri2029/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sliding Window
 |  |
