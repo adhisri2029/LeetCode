@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adhisri2029/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/adhisri2029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/adhisri2029/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adhisri2029/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/adhisri2029/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/adhisri2029/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/adhisri2029/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 <!---LeetCode Topics End-->
