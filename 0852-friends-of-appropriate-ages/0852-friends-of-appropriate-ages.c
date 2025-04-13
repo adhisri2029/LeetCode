@@ -6,7 +6,6 @@ int numFriendRequests(int* ages, int agesSize)
         int age=ages[index];
         ageFrequencies[age]++;
     }
-
     int totalFriendRequests = 0;
     for (int senderAge=1;senderAge<=120;senderAge++) 
     {
