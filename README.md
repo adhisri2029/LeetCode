@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/adhisri2029/LeetCode/tree/master/0504-base-7) |
 | [1031-add-to-array-form-of-integer](https://github.com/adhisri2029/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adhisri2029/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2238-a-number-after-a-double-reversal](https://github.com/adhisri2029/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
