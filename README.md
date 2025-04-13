@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0852-friends-of-appropriate-ages](https://github.com/adhisri2029/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [1031-add-to-array-form-of-integer](https://github.com/adhisri2029/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/adhisri2029/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/adhisri2029/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/adhisri2029/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/adhisri2029/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/adhisri2029/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/adhisri2029/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
