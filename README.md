@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/adhisri2029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adhisri2029/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2128-reverse-prefix-of-word](https://github.com/adhisri2029/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adhisri2029/LeetCode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/adhisri2029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/adhisri2029/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/adhisri2029/LeetCode/tree/master/0202-happy-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/adhisri2029/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [2128-reverse-prefix-of-word](https://github.com/adhisri2029/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
