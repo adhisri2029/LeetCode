@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhisri2029/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/adhisri2029/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/adhisri2029/LeetCode/tree/master/0202-happy-number) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adhisri2029/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/adhisri2029/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/adhisri2029/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2102-find-the-middle-index-in-array](https://github.com/adhisri2029/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2714-left-and-right-sum-differences](https://github.com/adhisri2029/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/adhisri2029/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adhisri2029/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adhisri2029/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0852-friends-of-appropriate-ages](https://github.com/adhisri2029/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/adhisri2029/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/adhisri2029/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/adhisri2029/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
