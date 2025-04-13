@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adhisri2029/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/adhisri2029/LeetCode/tree/master/0202-happy-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2226-rings-and-rods](https://github.com/adhisri2029/LeetCode/tree/master/2226-rings-and-rods) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adhisri2029/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adhisri2029/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/adhisri2029/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2226-rings-and-rods](https://github.com/adhisri2029/LeetCode/tree/master/2226-rings-and-rods) |
 ## Array
 |  |
 | ------- |
