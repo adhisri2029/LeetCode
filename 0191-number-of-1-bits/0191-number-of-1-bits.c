@@ -1,15 +1,15 @@
 int hammingWeight(int n) 
 {
-    int count=0;
+    int c=0;
     while(n>0) 
     {
         if(n%2==1) 
         {
-            count++;
+            c++;
         }
         n=n/2;
     }
-    return count;
+    return c;
 }
 
     
