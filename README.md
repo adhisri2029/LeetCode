@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/adhisri2029/LeetCode/tree/master/0504-base-7) |
 | [1031-add-to-array-form-of-integer](https://github.com/adhisri2029/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1448-maximum-69-number](https://github.com/adhisri2029/LeetCode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adhisri2029/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2238-a-number-after-a-double-reversal](https://github.com/adhisri2029/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/adhisri2029/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1448-maximum-69-number](https://github.com/adhisri2029/LeetCode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adhisri2029/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/adhisri2029/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
