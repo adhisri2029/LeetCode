@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adhisri2029/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/adhisri2029/LeetCode/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/adhisri2029/LeetCode/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/adhisri2029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/adhisri2029/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
