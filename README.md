@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/adhisri2029/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2226-rings-and-rods](https://github.com/adhisri2029/LeetCode/tree/master/2226-rings-and-rods) |
 | [2235-capitalize-the-title](https://github.com/adhisri2029/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2365-percentage-of-letter-in-string](https://github.com/adhisri2029/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 ## Array
 |  |
 | ------- |
