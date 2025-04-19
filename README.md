@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adhisri2029/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/adhisri2029/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2226-rings-and-rods](https://github.com/adhisri2029/LeetCode/tree/master/2226-rings-and-rods) |
+| [2235-capitalize-the-title](https://github.com/adhisri2029/LeetCode/tree/master/2235-capitalize-the-title) |
 ## Array
 |  |
 | ------- |
