@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adhisri2029/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhisri2029/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/adhisri2029/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/adhisri2029/LeetCode/tree/master/0202-happy-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adhisri2029/LeetCode/tree/master/0001-two-sum) |
 | [0852-friends-of-appropriate-ages](https://github.com/adhisri2029/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [1031-add-to-array-form-of-integer](https://github.com/adhisri2029/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/adhisri2029/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
