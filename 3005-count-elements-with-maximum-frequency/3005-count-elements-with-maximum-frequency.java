@@ -11,15 +11,23 @@ class Solution
         for(Integer k : nums)
         set.add(k);
 
-        List<Integer> freq = new ArrayList<>();
+        int freq[] = new int[set.size()];
+        int i=0;
         for(Integer k : set)
-        freq.add(map.get(k));
+        freq[i++] = map.get(k);
 
-        int m = freq.stream().max((a,b) ->Integer.compare(a,b)).get();
+        int big = freq[0];
+        for(int k : freq)
+        if(k > big)
+        big = k;
+        
+        int c = 0;
+        for(int k : freq)
+        if(k == big)
+        c++;
 
-        int n = Collections.frequency(freq,m);
-
-        return m * n;
+        return c * big;
+        
 
         
     }
