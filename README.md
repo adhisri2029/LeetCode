@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2226-rings-and-rods](https://github.com/adhisri2029/LeetCode/tree/master/2226-rings-and-rods) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/adhisri2029/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adhisri2029/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/adhisri2029/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2714-left-and-right-sum-differences](https://github.com/adhisri2029/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/adhisri2029/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3183-find-the-k-or-of-an-array](https://github.com/adhisri2029/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/adhisri2029/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/adhisri2029/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/adhisri2029/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
