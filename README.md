@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adhisri2029/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adhisri2029/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adhisri2029/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3692-majority-frequency-characters](https://github.com/adhisri2029/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/adhisri2029/LeetCode/tree/master/2226-rings-and-rods) |
 | [2235-capitalize-the-title](https://github.com/adhisri2029/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2365-percentage-of-letter-in-string](https://github.com/adhisri2029/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [3692-majority-frequency-characters](https://github.com/adhisri2029/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adhisri2029/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adhisri2029/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3692-majority-frequency-characters](https://github.com/adhisri2029/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Linked List
 |  |
 | ------- |
