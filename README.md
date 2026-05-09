@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhisri2029/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/adhisri2029/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/adhisri2029/LeetCode/tree/master/0704-binary-search) |
 | [0852-friends-of-appropriate-ages](https://github.com/adhisri2029/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [1031-add-to-array-form-of-integer](https://github.com/adhisri2029/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adhisri2029/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/adhisri2029/LeetCode/tree/master/0704-binary-search) |
 | [0852-friends-of-appropriate-ages](https://github.com/adhisri2029/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 ## Sorting
