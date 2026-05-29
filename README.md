@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adhisri2029/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/adhisri2029/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/adhisri2029/LeetCode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/adhisri2029/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/adhisri2029/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/adhisri2029/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/adhisri2029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
